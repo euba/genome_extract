@@ -1,0 +1,1 @@
+This repository contains a short R code to extract contigs based on their length, GC content, and coverage. 
